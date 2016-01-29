@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<error
+  application="/LM/W3SVC/1273337584/ROOT"
+  host="RD00155D48D2B7"
+  type="System.Web.HttpException"
+  message="no referrer"
+  detail="System.Web.HttpException (0x80004005): no referrer"
+  user="Unknown"
+  time="2016-01-27T18:22:02.8589977Z"
+  statusCode="404">
+  <serverVariables>
+    <item
+      name="ALL_HTTP">
+      <value
+        string="HTTP_CONTENT_LENGTH:0&#xD;&#xA;HTTP_ACCEPT:*/*&#xD;&#xA;HTTP_ACCEPT_ENCODING:gzip&#xD;&#xA;HTTP_HOST:channel9.msdn.com&#xD;&#xA;HTTP_USER_AGENT:Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)&#xD;&#xA;" />
+    </item>
+    <item
+      name="ALL_RAW">
+      <value
+        string="Content-Length: 0&#xD;&#xA;Accept: */*&#xD;&#xA;Accept-Encoding: gzip&#xD;&#xA;Host: channel9.msdn.com&#xD;&#xA;User-Agent: Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)&#xD;&#xA;" />
+    </item>
+    <item
+      name="APPL_MD_PATH">
+      <value
+        string="/LM/W3SVC/1273337584/ROOT" />
+    </item>
+    <item
+      name="APPL_PHYSICAL_PATH">
+      <value
+        string="E:\sitesroot\0\" />
+    </item>
+    <item
+      name="AUTH_TYPE">
+      <value
+        string="" />
+    </item>
+    <item
+      name="AUTH_USER">
+      <value
+        string="" />
+    </item>
+    <item
+      name="AUTH_PASSWORD">
+      <value
+        string="*****" />
+    </item>
+    <item
+      name="LOGON_USER">
+      <value
+        string="" />
+    </item>
+    <item
+      name="REMOTE_USER">
+      <value
+        string="" />
+    </item>
+    <item
+      name="CERT_COOKIE">
+      <value
+        string="" />
+    </item>
+    <item
+      name="CERT_FLAGS">
+      <value
+        string="" />
+    </item>
+    <item
+      name="CERT_ISSUER">
+      <value
+        string="" />
+    </item>
+    <item
+      name="CERT_KEYSIZE">
+      <value
+        string="256" />
+    </item>
+    <item
+      name="CERT_SECRETKEYSIZE">
+      <value
+        string="2048" />
+    </item>
+    <item
+      name="CERT_SERIALNUMBER">
+      <value
+        string="" />
+    </item>
+    <item
+      name="CERT_SERVER_ISSUER">
+      <value
+        string="C=US, S=Washington, L=Redmond, O=Microsoft Corporation, OU=Microsoft IT, CN=Microsoft IT SSL SHA2" />
+    </item>
+    <item
+      name="CERT_SERVER_SUBJECT">
+      <value
+        string="CN=channel9.msdn.com" />
+    </item>
+    <item
+      name="CERT_SUBJECT">
+      <value
+        string="" />
+    </item>
+    <item
+      name="CONTENT_LENGTH">
+      <value
+        string="0" />
+    </item>
+    <item
+      name="CONTENT_TYPE">
+      <value
+        string="" />
+    </item>
+    <item
+      name="GATEWAY_INTERFACE">
+      <value
+        string="CGI/1.1" />
+    </item>
+    <item
+      name="HTTPS">
+      <value
+        string="on" />
+    </item>
+    <item
+      name="HTTPS_KEYSIZE">
+      <value
+        string="256" />
+    </item>
+    <item
+      name="HTTPS_SECRETKEYSIZE">
+      <value
+        string="2048" />
+    </item>
+    <item
+      name="HTTPS_SERVER_ISSUER">
+      <value
+        string="C=US, S=Washington, L=Redmond, O=Microsoft Corporation, OU=Microsoft IT, CN=Microsoft IT SSL SHA2" />
+    </item>
+    <item
+      name="HTTPS_SERVER_SUBJECT">
+      <value
+        string="CN=channel9.msdn.com" />
+    </item>
+    <item
+      name="INSTANCE_ID">
+      <value
+        string="1273337584" />
+    </item>
+    <item
+      name="INSTANCE_META_PATH">
+      <value
+        string="/LM/W3SVC/1273337584" />
+    </item>
+    <item
+      name="LOCAL_ADDR">
+      <value
+        string="10.75.166.82" />
+    </item>
+    <item
+      name="PATH_INFO">
+      <value
+        string="/NotFound" />
+    </item>
+    <item
+      name="PATH_TRANSLATED">
+      <value
+        string="E:\sitesroot\0\NotFound" />
+    </item>
+    <item
+      name="QUERY_STRING">
+      <value
+        string="404;https://channel9.msdn.com:443/Forums/Coffeehouse/What-is-Torchbear-/1d49b97610c54b7eac769f8000a8d144" />
+    </item>
+    <item
+      name="REMOTE_ADDR">
+      <value
+        string="68.180.228.170" />
+    </item>
+    <item
+      name="REMOTE_HOST">
+      <value
+        string="68.180.228.170" />
+    </item>
+    <item
+      name="REMOTE_PORT">
+      <value
+        string="55009" />
+    </item>
+    <item
+      name="REQUEST_METHOD">
+      <value
+        string="GET" />
+    </item>
+    <item
+      name="SCRIPT_NAME">
+      <value
+        string="/NotFound" />
+    </item>
+    <item
+      name="SERVER_NAME">
+      <value
+        string="channel9.msdn.com" />
+    </item>
+    <item
+      name="SERVER_PORT">
+      <value
+        string="443" />
+    </item>
+    <item
+      name="SERVER_PORT_SECURE">
+      <value
+        string="1" />
+    </item>
+    <item
+      name="SERVER_PROTOCOL">
+      <value
+        string="HTTP/1.1" />
+    </item>
+    <item
+      name="SERVER_SOFTWARE">
+      <value
+        string="Microsoft-IIS/8.5" />
+    </item>
+    <item
+      name="URL">
+      <value
+        string="/NotFound" />
+    </item>
+    <item
+      name="HTTP_CONTENT_LENGTH">
+      <value
+        string="0" />
+    </item>
+    <item
+      name="HTTP_ACCEPT">
+      <value
+        string="*/*" />
+    </item>
+    <item
+      name="HTTP_ACCEPT_ENCODING">
+      <value
+        string="gzip" />
+    </item>
+    <item
+      name="HTTP_HOST">
+      <value
+        string="channel9.msdn.com" />
+    </item>
+    <item
+      name="HTTP_USER_AGENT">
+      <value
+        string="Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)" />
+    </item>
+  </serverVariables>
+  <queryString>
+    <item
+      name="">
+      <value
+        string="404;https://channel9.msdn.com:443/Forums/Coffeehouse/What-is-Torchbear-/1d49b97610c54b7eac769f8000a8d144" />
+    </item>
+  </queryString>
+  <cookies>
+    <item
+      name="c9id">
+      <value
+        string="ca6442b83fbc434bbdc72a8c7a2a9da6" />
+    </item>
+  </cookies>
+</error>
